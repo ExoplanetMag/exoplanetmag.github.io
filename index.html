@@ -38,17 +38,19 @@ title: Home
 
     </div>
     Stories will be posted after our first issue is published.
-    <!--
+
     <div class="row listrecent">
 
+        {% comment %}
         {% for post in paginator.posts %}
 
         {% include postbox.html %}
 
         {% endfor %}
+        {% endcomment %}
 
     </div>
-    -->
+
 </section>
 
 <!-- Pagination
