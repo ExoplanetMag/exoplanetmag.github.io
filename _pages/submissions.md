@@ -33,7 +33,7 @@ permalink: /submissions
 </ul>
 <p>We realize these story formats are rare and unusual, but we intend to be a rare and unusual publication.</p>
 
-<h2>Content guidelines<h2>
+<h2>Content guidelines</h2>
 <p>Sex, violence, and profanity are acceptable if they’re integral to the story. Please use your best judgment, but don’t self-reject because you assume we’ll find it excessive.</p>
 
 <h2>AI policy</h2>
