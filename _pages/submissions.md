@@ -44,7 +44,7 @@ Sex, violence, and profanity are acceptable if they’re integral to the story. 
 
 ### Payments and rights
 
-Exoplanet Magazine pays a semi-pro rate of **one cent ($0.01 USD) per word** for stories. We intend to increase this to a professional rate of eight cents per word, but that will depend on Patreon support and magazine sales.
+Exoplanet Magazine pays a semi-pro rate of **one cent ($0.01 USD) per word** for stories (with a $5 minimum). We intend to increase this to a professional rate of eight cents per word, but that will depend on Patreon support and magazine sales.
 
 Once accepted, we request first electronic rights for original, unpublished stories with exclusive rights for three months from the publication of the issue in which your story appears.
 
