@@ -8,10 +8,9 @@ permalink: /submissions
 
 We currently have three submission windows per year. Here are our upcoming windows:
 
-- Oct 5 - Oct 20, 2025 (Issues 1 and 2)
-- Feb 5 - Feb 20, 2026 (Issues 3 and 4)
-- Jun 5 - Jun 20, 2026 (Issues 5 and 6)
-- Oct 5 - Oct 20, 2026 (Issues 7 and 8)
+- Jan 5 - Jan 20, 2026 (Issues 1 and 2)
+- May 5 - May 20, 2026 (Issues 3 and 4)
+- Sep 5 - Sep 20, 2026 (Issues 5 and 6)
 
 Prior to each submission window opening on the 5th, we have a private window from the 1st through the 4th for our Patreon supporters. This is an opportunity to receive faster and more detailed feedback on your story, with the option to resubmit after revising.
 
